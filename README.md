@@ -5,12 +5,15 @@ Publication: Motion-resolved fat fraction mapping with whole-heart free-running 
 
 Link: XXXXXXXXXXXXXXXXXXXXXX
 
+***********************************************************************************************************************************************************************
+
 Contains: 
 
-main.m      script to load raw data, compute the corresponding 3D trajectory points, and visualize the raw and processed cardiac and respiratory signals extracted from Pilot Tone navigator
+1) main.m: script to load raw data, compute the corresponding 3D trajectory points, and visualize the raw and processed cardiac and respiratory signals                extracted from Pilot Tone navigator
 
-/Code_Dependencies
+2) /Code_Dependencies
 
+***********************************************************************************************************************************************************************
 
 Cardiac raw data Pilot Tone phyiological signals from 10 healthy volunteers can be found at:
 
