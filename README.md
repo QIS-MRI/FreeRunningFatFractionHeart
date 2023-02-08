@@ -3,7 +3,7 @@ Matlab code to load and read MRI raw data acquired on a 1.5T clinical scanner wi
 
 Publication: Motion-resolved fat fraction mapping with whole-heart free-running multi-echo GRE by Mackowiak A.L.C. et al. (2023)
 
-Link: XXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXX (link to publication)
 
 ***********************************************************************************************************************************************************************
 
@@ -15,9 +15,9 @@ Contains:
 
 ***********************************************************************************************************************************************************************
 
-Cardiac raw data Pilot Tone phyiological signals from 10 healthy volunteers can be found at:
+Cardiac raw data & Pilot Tone phyiological signals from 10 healthy volunteers can be found at:
 
-XXXXXXXXXXXXXXXXXXXXXX (link to Zenodo)
+XXXXXXXXXXXXXXXXXXXXXX (link to Zenodo data repository)
 
 
 
