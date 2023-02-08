@@ -1,5 +1,5 @@
 # ReadDataAndTrajectory_FreeRunningFatFractionHeart
-Matlab code to load and read MRI raw data acquired on a 1.5T clinical scanner with a 3D radial trajectory and Pilot Tone navigation
+Matlab code to load and read MRI raw data acquired on a 1.5T clinical scanner with a multi-echo GRE sequence, a 3D radial trajectory and Pilot Tone navigation
 
 Publication: Motion-resolved fat fraction mapping with whole-heart free-running multi-echo GRE by Mackowiak A.L.C. et al. (2023)
 
