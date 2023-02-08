@@ -1,12 +1,22 @@
 # ReadDataAndTrajectory_FreeRunningFatFractionHeart
 Matlab code to load and read MRI raw data acquired on a 1.5T clinical scanner with a 3D radial trajectory and Pilot Tone navigation
-Cardiac data from 10 healthy volunteers
+
 Publication: Motion-resolved fat fraction mapping with whole-heart free-running multi-echo GRE by Mackowiak A.L.C. et al. (2023)
+
 Link: XXXXXXXXXXXXXXXXXXXXXX
 
 Contains: 
-main.m
+
+main.m      script to load raw data, compute the corresponding 3D trajectory points, and visualize the raw and processed cardiac and respiratory signals extracted from Pilot Tone navigator
+
 /Code_Dependencies
 
-Raw data and Pilot Tone phyiological signals can be found at:
+
+Cardiac raw data Pilot Tone phyiological signals from 10 healthy volunteers can be found at:
+
 XXXXXXXXXXXXXXXXXXXXXX (link to Zenodo)
+
+
+
+
+
