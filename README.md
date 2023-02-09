@@ -11,13 +11,14 @@ Contains:
 
 1) main.m: script to load multiecho raw data, compute the corresponding 3D trajectory points, and visualize the raw and processed cardiac and respiratory signals                extracted from Pilot Tone navigator
 
-2) /Code_Dependencies
+2) /Code_Dependencies: this folder contains functions that are needed
 
 ***********************************************************************************************************************************************************************
 
-Cardiac raw data & Pilot Tone phyiological signals from 10 healthy volunteers can be found at:
+Cardiac raw data & Pilot Tone phyiological signals from 10 healthy volunteer datasets V1-V10 can be found at the following Zenodo repositories:
 
-XXXXXXXXXXXXXXXXXXXXXX (link to Zenodo data repository)
+https://zenodo.org/record/7621356#.Y-TI_3bMLcs  (V1-V5)
+https://zenodo.org/record/7615780#.Y-TJoHbMLcs  (V6-V10)
 
 
 
