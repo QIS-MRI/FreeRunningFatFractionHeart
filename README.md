@@ -1,9 +1,9 @@
 # ReadDataAndTrajectory_FreeRunningFatFractionHeart
 Matlab code to load and read MRI raw data acquired on a 1.5T clinical scanner with a multiecho GRE sequence, a 3D radial trajectory and Pilot Tone navigation
 
-Publication: Motion-resolved fat fraction mapping with whole-heart free-running multiecho GRE by Mackowiak A.L.C. et al. (2023)
+Publication: Motion-resolved fat fraction mapping with whole-heart free-running multiecho GRE and Pilot Tone by Mackowiak A.L.C. et al. (2023)
 
-XXXXXXXXXXXXXXXXXXXXXX (link to publication)
+https://onlinelibrary.wiley.com/doi/10.1002/mrm.29680
 
 ***********************************************************************************************************************************************************************
 
